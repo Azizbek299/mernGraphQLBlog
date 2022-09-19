@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.page-title {
+  display:block !important;
+  text-align:center;
+  font-size:2rem;
+  margin-top:15px;
+}
+
+.form-container {
+  width: 400px;
+  margin: 20px auto;
+}
+
+
+
+
+.site-footer
+{
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+}
+
+.row-title {
+  display: flex;
+}
+
+.container-copyright {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.container-copyright span {
+  color: rgb(72, 72, 209);
+  margin-left: 10px;
+}
+
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:silver;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  margin-bottom: 5px;
+  letter-spacing:2px
+}
+
+
+
+.stackBox {
+  display: flex;
+  margin-top: 10px;
+  padding-left: 50px;
+}
+
+.stackContainerFrontEnd {
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.stackContainerBackEnd {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.stackTitle {
+  color: black;
+
+}
+
+
+
+
+
